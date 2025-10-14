@@ -1,0 +1,1 @@
+savedcmd_/home/ashwinkh/char_Device_Driver/IOCTL/15_ioctl/15_ioctl.mod := printf '%s\n'   15_ioctl.o | awk '!x[$$0]++ { print("/home/ashwinkh/char_Device_Driver/IOCTL/15_ioctl/"$$0) }' > /home/ashwinkh/char_Device_Driver/IOCTL/15_ioctl/15_ioctl.mod

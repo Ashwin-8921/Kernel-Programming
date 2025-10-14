@@ -1,0 +1,1 @@
+savedcmd_/home/ashwinkh/char_Device_Driver/IOCTL/15_ioctl/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ashwinkh/char_Device_Driver/IOCTL/15_ioctl/Module.symvers -T /home/ashwinkh/char_Device_Driver/IOCTL/15_ioctl/modules.order -i Module.symvers -e 
