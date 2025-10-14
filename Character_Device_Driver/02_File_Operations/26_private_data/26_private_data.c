@@ -151,7 +151,7 @@ struct file_operations device_fops = {
 static int test_hello_init(void)
 {
 	int i = 0;
-	class = class_create(THIS_MODULE, "myclass");
+	class = class_create("myclass");
 
 	if (!alloc_chrdev_region(&devicenumber, base_minor, count, device_name)) {
 		int major = MAJOR(devicenumber);
