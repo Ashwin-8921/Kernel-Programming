@@ -1,1 +1,0 @@
-savedcmd_/home/ashwinkh/char_Device_Driver/IOCTL/15_ioctl/15_ioctl.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ashwinkh/char_Device_Driver/IOCTL/15_ioctl/15_ioctl.ko /home/ashwinkh/char_Device_Driver/IOCTL/15_ioctl/15_ioctl.o /home/ashwinkh/char_Device_Driver/IOCTL/15_ioctl/15_ioctl.mod.o

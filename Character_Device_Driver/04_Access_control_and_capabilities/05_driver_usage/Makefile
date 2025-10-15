@@ -1,4 +1,4 @@
-obj-m += 15_ioctl.o
+obj-m += 05_driver_usage.o
 
 all:
 	make -C /lib/modules/`uname -r`/build M=$(PWD) modules
