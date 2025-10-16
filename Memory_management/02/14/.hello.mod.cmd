@@ -1,1 +1,0 @@
-savedcmd_/home/ashwinkh/Memory_management/02/14/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/ashwinkh/Memory_management/02/14/"$$0) }' > /home/ashwinkh/Memory_management/02/14/hello.mod
