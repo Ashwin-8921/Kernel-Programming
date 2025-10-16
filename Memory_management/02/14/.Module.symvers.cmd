@@ -1,0 +1,1 @@
+savedcmd_/home/ashwinkh/Memory_management/02/14/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ashwinkh/Memory_management/02/14/Module.symvers -T /home/ashwinkh/Memory_management/02/14/modules.order -i Module.symvers -e 

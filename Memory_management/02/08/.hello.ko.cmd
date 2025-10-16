@@ -1,0 +1,1 @@
+savedcmd_/home/ashwinkh/Memory_management/02/08/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ashwinkh/Memory_management/02/08/hello.ko /home/ashwinkh/Memory_management/02/08/hello.o /home/ashwinkh/Memory_management/02/08/hello.mod.o
